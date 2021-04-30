@@ -1,2 +1,3 @@
 # .config
-Arch Linux .files and configs
+
+Linux dotfiles and configs
