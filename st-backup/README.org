@@ -1,3 +1,5 @@
-* 'st is a simple terminal implementation for X'.  See https://st.suckless.org for more information.
+* Simple Terminal application
 
-This file contains a backup for my st config.
+** 'st is a simple terminal implementation for X', see https://st.suckless.org for more information.
+
+*** This file contains a backup for my st config.
