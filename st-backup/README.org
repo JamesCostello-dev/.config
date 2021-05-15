@@ -1,4 +1,4 @@
-* Simple Terminal application
+* Simple terminal app
 
 ** 'st is a simple terminal implementation for X', see https://st.suckless.org for more information.
 
