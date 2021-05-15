@@ -1,4 +1,4 @@
-* config.h file for dwm
+* dwm
 
 ** 'dwm is a dynamic window manager for X', see https://dwm.suckless.org for more details.
 
