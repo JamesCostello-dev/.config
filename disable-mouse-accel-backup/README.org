@@ -1,3 +1,5 @@
-* Disable mouse acceleration using X.
+* Mouse Acceleration
 
-** Simple config file to disable annoying mouse acceleration.  See https://wiki.archlinux.org/index.php/Mouse_acceleration for more details.
+** Disable mouse acceleration using X.
+
+*** Simple config file to disable annoying mouse acceleration.  See https://wiki.archlinux.org/index.php/Mouse_acceleration for more details.
