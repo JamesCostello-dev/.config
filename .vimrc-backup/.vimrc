@@ -10,7 +10,16 @@ set ai "Auto indent
 set si "Smart indent
 set wrap "Wrap lines
 
-:filetype plugin on
-:filetype indent on
+filetype plugin on
+filetype indent on
 
-:syntax on
+syntax on
+colorscheme onedark
+
+inoremap { {}<ESC>ha
+inoremap [ []<ESC>ha
+inoremap ( ()<ESC>ha
+inoremap ' ''<ESC>ha
+inoremap " ""<ESC>ha
+inoremap ` ``<ESC>ha
+inoremap < <><ESC>ha
