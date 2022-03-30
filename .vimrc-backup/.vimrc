@@ -1,3 +1,19 @@
+call plug#begin()
+
+Plug 'prabirshrestha/vim-lsp'
+Plug 'mattn/vim-lsp-settings'
+Plug 'rust-lang/rust.vim'
+Plug 'darrikonn/vim-gofmt'
+Plug 'mattn/emmet-vim'
+Plug 'sheerun/vim-polyglot'
+Plug 'w0rp/ale'
+Plug 'elzr/vim-json'
+Plug 'plasticboy/vim-markdown'
+Plug 'ycm-core/YouCompleteMe'
+Plug 'tpope/vim-fugitive'
+
+call plug#end()
+
 set nu
 set expandtab
 set smarttab
@@ -8,6 +24,7 @@ set tw=500
 set ai "Auto indent
 set si "Smart indent
 set wrap "Wrap lines
+set foldenable!
 
 filetype plugin on
 filetype indent on
