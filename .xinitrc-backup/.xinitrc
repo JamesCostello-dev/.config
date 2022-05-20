@@ -1,3 +1,0 @@
-slstatus &
-pulseaudio &
-exec dwm
